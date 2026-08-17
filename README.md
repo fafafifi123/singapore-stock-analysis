@@ -8,6 +8,9 @@ Each report follows a fixed framework: (1) Quality & Growth Filter — ROE/ROIC 
 
 | Date | Ticker | Company | Verdict | Report |
 |---|---|---|---|---|
+| 2026-08-17 | D05.SI | DBS Group Holdings | Hold | [analysis_D05.SI_2026-08-17.md](reports/analysis_D05.SI_2026-08-17.md) |
+| 2026-08-17 | O39.SI | Oversea-Chinese Banking Corporation (OCBC) | Hold | [analysis_O39.SI_2026-08-17.md](reports/analysis_O39.SI_2026-08-17.md) |
+| 2026-08-17 | U11.SI | United Overseas Bank (UOB) | Hold | [analysis_U11.SI_2026-08-17.md](reports/analysis_U11.SI_2026-08-17.md) |
 | 2026-08-12 | D05.SI | DBS Group Holdings | Hold | [analysis_D05.SI_2026-08-12.md](reports/analysis_D05.SI_2026-08-12.md) |
 | 2026-08-12 | O39.SI | Oversea-Chinese Banking Corporation (OCBC) | Hold | [analysis_O39.SI_2026-08-12.md](reports/analysis_O39.SI_2026-08-12.md) |
 | 2026-08-12 | U11.SI | United Overseas Bank (UOB) | Hold | [analysis_U11.SI_2026-08-12.md](reports/analysis_U11.SI_2026-08-12.md) |
